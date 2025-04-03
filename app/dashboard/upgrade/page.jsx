@@ -1,4 +1,4 @@
-import { Button } from '@/components/ui/button'
+eimport { Button } from '@/components/ui/button'
 import React from 'react'
 
 const Upgrade = () => {
@@ -10,6 +10,13 @@ const Upgrade = () => {
        <Button >
         Upgrade
        </Button>
+        <Button className"mt-4" variant="ghost">
+        6378198303
+        </Button>
+      <Button variant="destructive" className="mt-4">
+        goswamidheeraj760@gmail.com
+      </Button>
+        
         </div>
         </>
     
