@@ -302,14 +302,11 @@ export default function Home() {
                 <Star className="size-5 text-blue-700 fill-blue-700" />
                 <Star className="size-5 text-blue-700 fill-blue-700" />
                 <Star className="size-5 text-blue-700 fill-blue-700" />
-                <Star className="size-5 text-blue-700 fill-blue-700" />
-                <Star className="size-5 text-blue-700 fill-blue-700" />
+               
               </div>
 
               <p className="text-base sm:text-lg lg:text-lg/8 font-medium tracking-tight text-brand-950 text-center lg:text-left text-pretty">
-                PingPanda has been a game-changer for me. I've been using it for
-                two months now and seeing sales pop up in real-time is super
-                satisfying.
+          The AI Course Generator is an excellent tool that simplifies course creation. The course outlines are well-structured, and the content is detailed. However, I’d love to see more customization options for advanced users. Still, it’s a fantastic resource for anyone looking to create educational content quickly!
               </p>
 
               <div className="flex flex-col justify-center lg:justify-start sm:flex-row items-center sm:items-start gap-4 mt-2">
@@ -343,9 +340,7 @@ export default function Home() {
               </div>
 
               <p className="text-base sm:text-lg lg:text-lg/8 font-medium tracking-tight text-brand-950 text-center lg:text-left text-pretty">
-                PingPanda's been paying off for our SaaS. Nice to have simple
-                way to see how we're doing day-to-day. Definitely makes our
-                lives easier.
+               I’ve been using this AI Course Generator for a while now, and it’s absolutely amazing! It creates well-structured, engaging courses in minutes. The AI ensures that the content is both informative and easy to follow. Highly recommended for educators and content creators who want to save time while delivering high-quality courses!
               </p>
 
               <div className="flex flex-col justify-center lg:justify-start sm:flex-row items-center sm:items-start gap-4 mt-2">
