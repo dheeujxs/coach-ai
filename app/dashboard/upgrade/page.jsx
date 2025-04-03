@@ -10,7 +10,7 @@ const Upgrade = () => {
        <Button >
         Upgrade
        </Button>
-        <Button className"mt-4" variant="ghost">
+        <Button className="mt-4" variant="ghost">
         6378198303
         </Button>
       <Button variant="destructive" className="mt-4">
